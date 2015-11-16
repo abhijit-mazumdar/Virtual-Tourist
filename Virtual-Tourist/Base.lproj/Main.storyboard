@@ -147,6 +147,10 @@
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
+                                <connections>
+                                    <outlet property="dataSource" destination="WES-mA-f2E" id="NOH-VP-LAg"/>
+                                    <outlet property="delegate" destination="WES-mA-f2E" id="rWQ-9T-PwV"/>
+                                </connections>
                             </collectionView>
                         </subviews>
                         <animations/>

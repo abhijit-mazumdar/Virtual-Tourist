@@ -28,7 +28,6 @@ class AlbumController: UIViewController, NSFetchedResultsControllerDelegate{
     @IBOutlet weak var resultsIndicator: UIActivityIndicatorView!
     @IBOutlet weak var collectionView: UICollectionView!
     @IBOutlet weak var mapView: MKMapView!
-    //@IBOutlet weak var dateLabel: UILabel!
     @IBOutlet weak var collectionBarButton: UIBarButtonItem!
     
     override func viewDidLoad() {
