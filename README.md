@@ -11,7 +11,7 @@ Allows the user to drop pins around the world. Users can drag pin to a new locat
 Allows the users to download and edit an album for a location. Users can create new collections and delete photos from existing albums.
 
 
-![Map view - drop pins](https://raw.githubusercontent.com/abhijit-mazumdar/Virtual-Tourist/master/Screenshots/vt1.png)
-![Photos](https://raw.githubusercontent.com/abhijit-mazumdar/Virtual-Tourist/master/Screenshots/vt2.png)
-![Photos - refreshing](https://raw.githubusercontent.com/abhijit-mazumdar/Virtual-Tourist/master/Screenshots/vt3.png)
+![Map view - drop pins](https://github.com/abhijit-mazumdar/Virtual-Tourist/blob/master/screenshots/vt1.png)
+![Photos](https://github.com/abhijit-mazumdar/Virtual-Tourist/blob/master/screenshots/vt2.png)
+![Photos - refreshing](https://github.com/abhijit-mazumdar/Virtual-Tourist/blob/master/screenshots/vt3.png)
 
